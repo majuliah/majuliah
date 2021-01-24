@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 *_I'm a information system student and:_*
 
-- I'm learning C# with Unity*;
+- *I'm learning C# with Unity*;
 - *Sometimes I play with C++ on Unreal*;
 - *Studying React, Type and Node in college*;
 - *Regularly I try to do some characters with Blender*;

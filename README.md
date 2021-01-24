@@ -25,7 +25,9 @@ Here are some ideas to get you started:
  :woman_astronaut: *And in spare time, I'm always learning something new and reading books*
  
  ### she/her :sparkles:
- #### #girlwhocodes :rainbow:
+ #### #girlwhocodes :rainbow: :unicorn: 
+ 
+ ![Calvin e Haroldo](https://giphy.com/gifs/dancing-calvin-and-hobbes-iLqpYAbKGOrqU)
  
  
       

@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  ### she/her :sparkles:
  #### #girlwhocodes :rainbow: :unicorn: 
  
- ![Calvin e Haroldo](https://giphy.com/gifs/dancing-calvin-and-hobbes-iLqpYAbKGOrqU)
+ ![](https://media2.giphy.com/media/iLqpYAbKGOrqU/giphy.gif)
  
  
       

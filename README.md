@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**_I'm a information system student and:_*
+*_I'm a information system student and:_*
 
 - I'm learning C# with Unity*;
 - *Sometimes I play with C++ on Unreal*;

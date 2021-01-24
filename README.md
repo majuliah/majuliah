@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-*_I'm a information system student and:_*
+*_I'm a information system student and..._*
 
-- *I'm learning C# with Unity*;
+- :woman_technologist: *I'm learning C# with Unity*;
 - *Sometimes I play with C++ on Unreal*;
 - *Studying React, Type and Node in college*;
 - *Regularly I try to do some characters with Blender*;
+- *Drink a lot of tea*;
 
 *And in spare time, I'm always learning something new and reading books.*
 

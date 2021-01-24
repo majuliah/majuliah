@@ -1,4 +1,4 @@
-### :vulcan: :woman_singer: Hey!
+### :woman_singer: Hey!
 
 <!--
 **majuliah/majuliah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,4 +26,5 @@ Here are some ideas to get you started:
  
  
  
-:woman_mage:  :woman_elf:  :woman_detective: 
+
+:nerd: :bee: :sparkles: :video_game:  :desktop:  

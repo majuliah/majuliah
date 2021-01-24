@@ -21,5 +21,9 @@ Here are some ideas to get you started:
 - :woman_detective: *Studying React, Type and Node in college*;
 - :woman_mage: *Regularly I try to do some characters with Blender*;
 - :tea: *Drink a lot of tea*;
+ 
  :woman_astronaut: *And in spare time, I'm always learning something new and reading books.*
-
+ 
+ 
+ 
+:woman_mage:  :woman_elf:  :woman_detective: 

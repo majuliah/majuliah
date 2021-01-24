@@ -27,7 +27,7 @@ Here are some ideas to get you started:
  ### she/her :sparkles:
  #### #girlwhocodes :rainbow: :unicorn: 
  
- ![](https://media2.giphy.com/media/iLqpYAbKGOrqU/giphy.gif?w=200)
+ ![](https://media2.giphy.com/media/iLqpYAbKGOrqU/giphy.gif?w=150)
  
  
       

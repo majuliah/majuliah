@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - :woman_technologist: *I'm learning C# with Unity*;
 - :video_game: *Sometimes I play with C++ on Unreal*;
 - :ledger: *Studying React, Type and Node in college*;
-- :bee: *Regularly I try to do some characters with Blender*;
+- :bee: *Regularly I try to sculp some characters with Blender*;
 - :tea: *Drink a lot of tea*;
  
  :woman_astronaut: *And in spare time, I'm always learning something new and reading books*

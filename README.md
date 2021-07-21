@@ -9,12 +9,11 @@
   
   # 
 
-
-<a href="https://github.com/majuliah/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majuliah&layout=compact&theme=dracula" />
-</a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=majuliah&show_icons=true&hide=stars,prs&theme=dracula" />
+</a>
+<a href="https://github.com/majuliah/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majuliah&layout=compact&theme=dracula" />
 </a>
 
 <div style="display: inline_block"><br>

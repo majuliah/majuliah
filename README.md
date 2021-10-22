@@ -10,10 +10,10 @@
   # 
 
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majuliah&layout=compact&langs_count=7&theme=bear"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=majuliah&layout=compact&langs_count=7&theme=bear"/>
 </a>
 <a href="https://github.com/majuliah/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=majuliah&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=majuliah&show_icons=true&theme=bear&include_all_commits=true&count_private=true"/>
 </a>
 
  

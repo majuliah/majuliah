@@ -2,7 +2,7 @@
 
 <img align='right' alt="dancing" src="https://media.giphy.com/media/iLqpYAbKGOrqU/giphy.gif" width="230"/>
 
- ###  ***I'm an information system student and..***
+ ###  ***I'm graduated in information systems and..***
   - :sparkles: *having a lot of fun studying .NET/C#;*
   - :video_game: *trying to build something on Unity;*
   - 🦊 *learning how to be a part of open-source community :)* 

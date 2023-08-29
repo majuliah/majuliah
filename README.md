@@ -5,7 +5,8 @@
  ###  ***I'm graduated in information systems and..***
   - :sparkles: *having a lot of fun building systems with .NET/C#;*
   - :video_game: *trying to create a nice game on Unity;*
-  - 🦊 *learning how to be a part of open-source community :)* 
+  - 🦊 *learning how to be a part of open-source community :)*
+  - :sailboat: *on a boat to complete 100 days of code by @he4rtdevs:purple_heart:* 
   
   # 
 

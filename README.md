@@ -3,10 +3,12 @@
 <img align='right' alt="dancing" src="https://media.giphy.com/media/iLqpYAbKGOrqU/giphy.gif" width="230"/>
 
  ###  ***I'm graduated in information systems and..***
+  - :sailboat: *sailing at software engineering master degree;*
   - :sparkles: *having a lot of fun building systems with .NET/C#;*
-  - :video_game: *trying to create a nice game on Unity;*
+  - :video_game: *creating nice games with Unity;*
   - 🦊 *learning how to be a part of open-source community :)*
-  - :sailboat: *on a boat to complete 100 days of code by @he4rtdevs:purple_heart:* 
+  - 😎 *100 days of code completed by @he4rtdevs :purple_heart:*
+
   
   # 
 
